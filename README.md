@@ -8,11 +8,13 @@ The PyTorch code for the following paper:
 > *CVPR 2024*
 
 This project is based on and extends the following projects and uses some of the dataset, code and models from them:
+
 > [**Makeup Extraction of 3D Representation via Illumination-Aware Image Decomposition**](https://yangxingchao.github.io/makeup-extract-page),  
 > Xingchao Yang, Takafumi Taketomi, Yoshihiro Kanamori,   
 > *Computer Graphics Forum (Proc. of Eurographics 2023)*
-> 
-> The [makeup-extract-dataset](https://drive.google.com/file/d/1KC1eUU8HLD7y_DdomSzGKJWR2Hmapzr4/view?usp=drive_link) is used to build the makeup prior models. 
+
+The [makeup-extract-dataset](https://drive.google.com/file/d/1KC1eUU8HLD7y_DdomSzGKJWR2Hmapzr4/view?usp=drive_link) is used to build the makeup prior models. 
+If you find this dataset useful, please consider citing the papers.
 
 ## Prerequisites
 1. Python3
